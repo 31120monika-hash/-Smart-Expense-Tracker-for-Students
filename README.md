@@ -1,15 +1,5 @@
-<<<<<<< HEAD
+
 # Smart Expense Tracker for Students
-
-## Overview
-The Smart Expense Tracker is a web application designed to help students manage their finances effectively. It provides a user-friendly interface for tracking expenses, generating spending insights, and offering AI-driven advice to optimize spending habits.
-
-## Features
-- **Modern Finance Landing Page**: A visually appealing landing page that introduces users to the application and its features.
-- **Dashboard Layout**: A comprehensive dashboard that displays analytics, spending trends, and insights.
-- **Expense Management**: Users can add, edit, and delete expenses easily.
-- **AI-Generated Spending Advice**: Unique feature that provides personalized advice based on spending patterns.
-- **Responsive Design**: The application is designed to work seamlessly on various devices.
 
 ## Project Structure
 ```
@@ -70,46 +60,6 @@ smart-expense-tracker
 └── README.md             # Project documentation
 ```
 
-## Getting Started
-1. **Clone the repository**:
-   ```
-   git clone <repository-url>
-   cd smart-expense-tracker
-   ```
-
-2. **Install dependencies**:
-   - For the client:
-     ```
-     cd client
-     npm install
-     ```
-   - For the server:
-     ```
-     cd server
-     npm install
-     ```
-
-3. **Set up environment variables**:
-   - Copy `.env.example` to `.env` in the server directory and configure your database connection.
-
-4. **Run the application**:
-   - Start the server:
-     ```
-     cd server
-     npm start
-     ```
-   - Start the client:
-     ```
-     cd client
-     npm start
-     ```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-=======
 # -Smart-Expense-Tracker-for-Students
 A smart web application that helps students track and manage their daily expenses efficiently
 Smart Expense Tracker for Students
@@ -192,4 +142,4 @@ Advantages:
 Easy to use and navigate
 Helps students manage finances effectively
 Improves financial awareness
->>>>>>> origin/main
+
